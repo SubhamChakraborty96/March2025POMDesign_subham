@@ -42,21 +42,21 @@
  -->
 
 
-	<test name="Accounts Page Test">
+<!--	<test name="Accounts Page Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.AccountsPageTest" />
 		</classes>
-	</test>
+	</test>-->
 
-	<!-- <test name="Search Test">
+	 <test name="Search Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.SearchTest" />
 		</classes>
 	</test>
 
-	<test name="ProductInfo Page Test">
+	<!--<test name="ProductInfo Page Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<class name="com.qa.opencart.tests.ProductInfoTest" />
